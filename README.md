@@ -1,3 +1,12 @@
+<h1 align="center">💫 About Me:</h1>
+- 🔭 **I am currently working on Computer Vision, ROS, and SLAM Algorithms.**
+
+- 🌱 **I am currently learning ROS and Visual Odometry.**
+
+- 👯 **I am looking to collaborate on Robotics Projects.**
+
+- 🤝 **I am seeking assistance with Deep Learning, Computer Vision, ROS, and Visual Odometry.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yasinyilmaaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasinyilmaaz" height="30" width="40" /></a>
@@ -13,5 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinyilmaaz&show_icons=true&locale=en" alt="yasinyilmaaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinyilmaaz&" alt="yasinyilmaaz" /></p>
+
 
 ![snake gif](https://github.com/yasinyilmaaz/yasinyilmaaz/blob/output/github-contribution-grid-snake.svg)
